@@ -34,6 +34,7 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 2. Em **Content** uma breve descrição sobre a clínica.
 3. **Menu** e **Footer** padrões em todas as páginas.
 
+<!--as páginas "Página Principal" e "Sobre a clínica", foram unificados-->
 ### Sobre a clínica
 1. Deve ter uma imagem diferente no **Header**.
 2. Em **Content** um texto falando sobre a clínica.
